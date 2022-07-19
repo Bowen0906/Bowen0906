@@ -1,8 +1,10 @@
+(English)
 - 👋 Hi, I’m @Bowen-0906.
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning Python.
 - 📫 You can reach me at Bowen_0906@163.com.
 
+(简体中文)
 - 👋 你好，我是@Bowen-0906。
 - 👀 我喜欢编程。
 - 🌱 我现在正在学习 Python。
