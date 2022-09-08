@@ -38,7 +38,7 @@ Microsoft Community(English):
 
 - I'm Bowen_0906, a student from Tianjin,China.
 
-- Sometimes the reply may not be timely, please understand.
+- Please forgive me sometimes the reply may not be timely.
 
 - If there is an error in the reply, please correct me.
 
