@@ -67,5 +67,5 @@ Bowen_20090906@outlook.com
 
 -----------------------------------------------------------------------------------------------------------
 
-- My community Profile: 
+- My Community Profile: 
 	https://answers.microsoft.com/profile/9c696701-9fe3-4c7c-ae54-3f7c2c264eb3
