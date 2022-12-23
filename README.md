@@ -1,4 +1,4 @@
-(English)
+(EN-US)
 - 👋 Hi, I’m @Bowen-0906.
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning Python and C++.
@@ -6,7 +6,7 @@
 - 🏓 I’m good at playing table tennis.
 - 📖 I like reading.
 
-(简体中文)
+(ZH-CN)
 - 👋 你好，我是@Bowen-0906。
 - 👀 我喜欢编程。
 - 🌱 我现在正在学习 Python 和 C++。
